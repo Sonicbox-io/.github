@@ -4,6 +4,6 @@
 
 #### Dependency or code changes within other services?
 
-#### Jira ticket? Leave empty if no-jira
+#### Trello ticket link
 
 #### Screenshots (if appropriate)
